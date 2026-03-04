@@ -2,9 +2,11 @@
 
 A simple web app that converts Roman numerals to Arabic numerals, built with [NiceGUI](https://nicegui.io/).
 
+![Screenshot](screenshot.png)
+
 ## The Story
 
-This project is special — it was shipped so fast and with such clean code that it **landed the author an internship**. Sometimes the best projects are the ones you build in a day.
+This project is special — I shipped it so fast with NiceGUI that it **landed me an internship**. Sometimes the best projects are the simplest ones.
 
 ## Features
 
